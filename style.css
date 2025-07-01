@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #fafafa;
+  color: #333;
+}
+
+header {
+  background: linear-gradient(135deg, #c084fc, #e0c3fc);
+  color: white;
+  padding-bottom: 2rem;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.2rem 2rem;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.menu li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.menu li a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+main {
+  padding: 2rem 1.5rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+.section-card {
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  padding: 2rem;
+  margin-bottom: 2rem;
+  transition: transform 0.3s ease;
+}
+
+.section-card:hover {
+  transform: translateY(-5px);
+}
+
+.alt {
+  background-color: #f3e8ff;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+a {
+  color: #7b2cbf;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  background-color: #eee;
+}
+.foto-perfil {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.foto-perfil img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #d1bce3;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
