@@ -125,7 +125,11 @@ footer {
 #proyectos {
   padding: 60px 20px;
   background-color: #f5f8fc;
-  text-align: center;
+  text-align: center; 
+  margin-bottom: 60px; /* ⬅️ añadí esta línea */
+}
+#contacto {
+  padding-top: 40px;
 }
 
 .proyecto-card {
