@@ -36,4 +36,4 @@ También me dedico a la **estética capilar consciente** y acompaño procesos de
 
 ---
 
-Gracias por visitar 🌷 ¡Tecnología con propósito y belleza con alma!
+Gracias por visitar ¡Tecnología con propósito y belleza con alma!
